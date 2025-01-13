@@ -23,7 +23,7 @@ Number of government services the user is registered for.
 
 The dataset contains the following features:
 
-Score in cybersecurity tests: A numeric score indicating the user's performance on cybersecurity tests.
+Score in cybersecurity test: A numeric score indicating the user's performance on cybersecurity test.
 Age: User's age.
 Number of government services registered: Number of government services the user is registered with.
 Educational level: The user's level of education (e.g., ثانوي, دراسات عليا, تقني).
